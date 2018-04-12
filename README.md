@@ -1,4 +1,4 @@
-# Welcome! 
+# Welcome to React Web Apps! 
 
 ![codess logo](/public/codess-logo.png)
 
@@ -16,19 +16,25 @@ Here is a little bit more about [this event](https://boscodess18.splashthat.com/
 
 From the command line:
 
-- Clone this repository - `git clone https://github.com/azulad7/codess18-react-webapp`
-- Switch to the project directory you just cloned - `cd codess18-react-webapp`
-- Run `yarn`
+- Clone this repository: `git clone https://github.com/azulad7/codess18-react-webapp`
+- Switch to the project directory you just cloned: `cd codess18-react-webapp`
+- Run `yarn`. This will build your application in development mode.
 - Run `yarn start`. This should start your default web browser, and navigate to http://localhost:3000 where you can see your sweet new site!
 
 # First Fun Tasks to Try
 
 - Change the atom icon to a picture of your face (or any face really)
 - Change the top banner to a different color 
-- Add some content to your page
+- Add some content to your page (this is where the fun really begins)
 - Do a barrel roll
 - ???
-- Profit!
+- Profit! As in, learn!
+
+# Helpful Documentation
+
+[React Documentation](https://reactjs.org/) -- this has some useful snippets of code, explanations about what components are, how to make them stateful, and much MUCH more. Don't be too overwhelmed, ask questions if anything here is confusing!
+
+[W3 Schools HTML](https://www.w3schools.com/html/html_intro.asp) -- this site has lots of good information on web development, including HTML, CSS, JavaScript, Bootstrap, etc. I'd recommend bookmarking it, even if to just check back and look at it some other time!
 
 # About Codess
 
