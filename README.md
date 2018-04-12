@@ -8,9 +8,13 @@ Here is a little bit more about [this event](https://boscodess18.splashthat.com/
 
 # Prerequisites
 
-- Install [git](https://git-scm.org/downloads)
-- Install [node.js](https://nodejs.org/en/download/)
-- Install [yarn](https://yarnpkg.com/lang/en/docs/install/)
+Required:
+- Install [Node.js](https://nodejs.org/en/download/)
+- Install [Yarn](https://yarnpkg.com/lang/en/docs/install/)
+
+Optional:
+- Install [Visual Studio Code](https://code.visualstudio.com/)
+- Install [Git](https://git-scm.com/downloads)
 
 # Getting started
 
