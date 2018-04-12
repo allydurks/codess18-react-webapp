@@ -4,6 +4,11 @@ import { ListItem } from './ListItem';
 import logo from './logo.svg';
 import './App.css';
 
+/* 
+* Components in React always begin with a capital letter because
+* DOM objects (regular divs, imgs, etc) begin with lowercase letters,
+* and the uppercase indicates to the web app that it is a react component. 
+*/
 class App extends Component {
   render() {
     return (
